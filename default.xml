@@ -13,7 +13,7 @@
   <project remote="xilinx"  revision="rel-v2017.2" name="poky"                path="sources/core"/>
   <project remote="xilinx"  revision="rel-v2017.2" name="bitbake"             path="sources/core/bitbake"/>
   <project remote="xilinx"  revision="rel-v2017.2" name="meta-openamp"        path="sources/meta-openamp"/>
-  <project remote="xilinx"  revision="rel-v2017.2" name="meta-xilinx"         path="sources/meta-xilinx"/>
+  <project remote="xilinx"  revision="master" name="meta-xilinx"         path="sources/meta-xilinx"/>
   <project remote="xilinx"  revision="rel-v2017.2" name="meta-xilinx-tools"   path="sources/meta-xilinx-tools"/>
   <project remote="xilinx"  revision="rel-v2017.2" name="meta-petalinux"      path="sources/meta-petalinux"/>
 </manifest>
